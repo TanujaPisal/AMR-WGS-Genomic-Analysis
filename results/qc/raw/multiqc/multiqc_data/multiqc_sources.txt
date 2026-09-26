@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR23106236_1	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106236_1_fastqc.zip
+FastQC	all_sections	SRR23106236_2	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106236_2_fastqc.zip
+FastQC	all_sections	SRR23106237_1	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106237_1_fastqc.zip
+FastQC	all_sections	SRR23106237_2	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106237_2_fastqc.zip
+FastQC	all_sections	SRR23106238_1	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106238_1_fastqc.zip
+FastQC	all_sections	SRR23106238_2	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106238_2_fastqc.zip
+FastQC	all_sections	SRR23106336_1	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106336_1_fastqc.zip
+FastQC	all_sections	SRR23106336_2	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106336_2_fastqc.zip
+FastQC	all_sections	SRR23106353_1	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106353_1_fastqc.zip
+FastQC	all_sections	SRR23106353_2	/home/tanujzz/SDA/AMR_Project/results/qc/raw/SRR23106353_2_fastqc.zip
